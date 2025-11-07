@@ -12,7 +12,7 @@ public class Exercici4 {
         int numero = llegir.nextInt();
 
         if (numero == random) {
-            System.out.println("L'has encertat!");
+            System.out.println("L'has encertat, molt bé!");
         } else {
             System.out.println("No l'has encertat. El número correcte era: " + random);
         }
