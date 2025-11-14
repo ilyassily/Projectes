@@ -20,3 +20,4 @@ public class Exercici4 {
         llegir.close();
     }    
 }
+// Mehdi lbor9adi
